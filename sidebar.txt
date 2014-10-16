@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[asa:home|Door43 (asa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-asa|d43-asa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-asa/archive/master.zip|d43-asa.zip]]
+
+**Recent Changes**
+{{changes>ns = asa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/asa|Ethnologue data]]
+
